@@ -2,7 +2,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 import org.json.XML;
 
-public class LabJson {
+public class LabJson_punto1 {
     public static int PRETTY_PRINT_IDENT_FACTOR = 4;
     public static String XML_STRING =
             "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
