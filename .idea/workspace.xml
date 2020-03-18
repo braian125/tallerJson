@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3013111-5385-4670-9316-b0068da61aa9" name="Default Changelist" comment="" />
+    <list default="true" id="48dd0b1a-8577-4e28-af1d-f2ab9dea2c7f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +14,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1ZH7JABDtRbSeYk6ONIHYSJ9HeB" />
+  <component name="ProjectId" id="1ZHh4c3KLQ7GzNkatIokJ8pSskt" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,28 +24,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RunManager">
-    <configuration name="LabJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LabJson" />
-      <module name="TallerJSON" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="LabJson" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LabJson" />
+        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -54,12 +47,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f3013111-5385-4670-9316-b0068da61aa9" name="Default Changelist" comment="" />
-      <created>1584484090694</created>
+      <changelist id="48dd0b1a-8577-4e28-af1d-f2ab9dea2c7f" name="Default Changelist" comment="" />
+      <created>1584501736463</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584484090694</updated>
-      <workItem from="1584484096372" duration="2227000" />
+      <updated>1584501736463</updated>
+      <workItem from="1584501741926" duration="1601000" />
     </task>
     <servers />
   </component>
@@ -67,25 +60,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="296" key="GridCell.Tab.0.bottom" timestamp="1584486348877">
+    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1584501998607">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="296" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584486348877" />
-    <state width="1493" height="296" key="GridCell.Tab.0.center" timestamp="1584486348877">
+    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584501998607" />
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog" timestamp="1584502444778">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="296" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584486348877" />
-    <state width="1493" height="296" key="GridCell.Tab.0.left" timestamp="1584486348877">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="296" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584486348877" />
-    <state width="1493" height="296" key="GridCell.Tab.0.right" timestamp="1584486348877">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="296" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584486348877" />
-    <state x="277" y="56" key="SettingsEditor" timestamp="1584486534169">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584486534169" />
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1584502444778" />
   </component>
 </project>
